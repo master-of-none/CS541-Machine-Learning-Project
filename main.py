@@ -16,7 +16,7 @@ from utils_genetic import plot_route, plot_improvement
 
 # Constants such as total number of nodes and total number of tests
 NUMBER_OF_NODES = 50
-NUMBER_OF_TESTS = 3 # Change this value if more testing needs to be done
+NUMBER_OF_TESTS = 5 # For more accuracy, change this value to a larger number like 30, 50 etc.
 
 
 # Function to Perform tests
